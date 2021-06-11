@@ -108,11 +108,6 @@ class EditProduct extends React.Component {
                             }
                           }
                         ]}
-                        secondaryActions={[
-                          {
-                            content: 'Remove discount'
-                          }
-                        ]}
                       />
                     </Form>
                   </Layout.Section>
